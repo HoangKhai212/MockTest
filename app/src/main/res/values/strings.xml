@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MockTest</string>
+    <string-array name="type">
+        <item>Công Cộng</item>
+        <item>Cá Nhân</item>
+    </string-array>
+    <string-array name="sort">
+        <item>Sắp xếp theo tên</item>
+        <item>Sắp xếp theo giá tiền</item>
+    </string-array>
+</resources>
